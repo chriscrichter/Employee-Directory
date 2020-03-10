@@ -5,10 +5,15 @@ React Homework: Employee Directory
 
 This is an employee directory created with React. This app's UI is broken into components and responds to user events.
 
+<img src="assets/employee-directory.png" width="600" height="350">
+
 ## Business Context
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
+## Deployed on Heroku
+
+[https://still-bayou-93751.herokuapp.comzz/](https://still-bayou-93751.herokuapp.comzz/)
 
 ## GitHub page
 
