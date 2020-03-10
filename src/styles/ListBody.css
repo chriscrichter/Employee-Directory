@@ -1,0 +1,7 @@
+.name-cell {
+    text-transform: capitalize;
+}
+
+.email-cell a {
+	color: darkblue;
+}
