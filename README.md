@@ -15,7 +15,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Deployed on Heroku
 
-[https://still-bayou-93751.herokuapp.comzz/](https://still-bayou-93751.herokuapp.comzz/)
+[https://blooming-sands-63789.herokuapp.com/](https://blooming-sands-63789.herokuapp.com/)
 
 ## GitHub page
 
