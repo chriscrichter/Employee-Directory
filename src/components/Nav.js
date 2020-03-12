@@ -4,11 +4,11 @@ import "../styles/Nav.css";
 
 function Nav() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
       <button
         className="navbar-toggler"
         type="button"
-        data-toggle="collapse"
+        data-toggle=""
         data-target="#navbarNav"
         aria-controls="navbarNav"
         aria-expanded="false"

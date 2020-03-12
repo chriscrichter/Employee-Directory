@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  width: auto;
   font-family: 'Raleway', sans-serif, Helvetica;
   background-color: #729dbf;
 }
@@ -7,6 +8,13 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+
+.wrapper {
+  width: 100%;
+  position: relative;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
