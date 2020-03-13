@@ -13,7 +13,7 @@ const SearchName = () => {
             </span>
           </div>
           <input
-          className="form-control mr-sm-2"
+          className="form-control mr-sm-3"
           type="search"
           placeholder="name"
           aria-label="Search"
