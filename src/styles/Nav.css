@@ -1,11 +1,33 @@
 .navbar {
+  justify-content: center;
   padding: 10px 5px;
   width: 100%;
-  margin: 20 auto;
+  margin: 20 ;
 }
 
 .navbar-collapse.collapse {
   justify-content: center;
-  margin: auto;
   align-items: flex-start;
+}
+
+@media (max-width: 1000px) {
+  .navbar-collapse.collapse {
+  display: block!important;
+  justify-content: center;
+}
+
+  .navbar-nav>li, .navbar-nav {
+  float: left !important;
+  justify-content: center;
+}
+
+  .navbar-nav.navbar-right:last-child {
+  margin-right: -15px !important;
+  justify-content: center;
+}
+
+  .navbar-right {
+  float: right!important;
+  justify-content: center;
+}
 }

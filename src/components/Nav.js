@@ -14,10 +14,10 @@ function Nav() {
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span className="navbar-toggler-icon" />
+        <span className="" />
       </button>
       <div className="navbar-collapse collapse row" id="navbarNav">
-        <div className="search-area col-4">
+        <div className="search-area col-5">
           <SearchName />
         </div>
       </div>
