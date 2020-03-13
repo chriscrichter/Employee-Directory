@@ -1,33 +1,35 @@
 .navbar {
-  justify-content: center;
-  padding: 10px 5px;
+  padding: 10px 15px;
   width: 100%;
-  margin: 20 ;
+  justify-content: center;
+  margin-bottom: -35px;
+}
+
+.navbar-center {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin: auto;
 }
 
 .navbar-collapse.collapse {
-  justify-content: center;
   align-items: flex-start;
+  justify-content: center;
+  text-align: center;
 }
 
 @media (max-width: 1000px) {
   .navbar-collapse.collapse {
-  display: block!important;
   justify-content: center;
+  text-align: center;
+  display: block!important;
 }
 
   .navbar-nav>li, .navbar-nav {
   float: left !important;
-  justify-content: center;
 }
 
   .navbar-nav.navbar-right:last-child {
   margin-right: -15px !important;
-  justify-content: center;
-}
-
-  .navbar-right {
-  float: right!important;
-  justify-content: center;
 }
 }
