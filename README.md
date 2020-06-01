@@ -21,5 +21,5 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 My GitHub page can be found here:
 
-//: chriscrichter GitHub [https://github.com/chriscrichter/](https://github.com/chriscrichter/)
+[https://github.com/chriscrichter/](https://github.com/chriscrichter/)
 
