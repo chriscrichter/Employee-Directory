@@ -9,6 +9,10 @@ The directory can be filtered by typing a name in the filter field. Each column 
 
 <img src="assets/employee-directory.png" width="600" height="350">
 
+## User Story
+
+As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+
 ## Business Context
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
