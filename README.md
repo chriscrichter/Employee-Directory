@@ -5,9 +5,12 @@ React Homework: Employee Directory
 
 This is an employee directory created with React. This app's UI is broken into components and responds to user events.
 
-The directory can be filtered by typing a name in the filter field. Each column can be sorted by clicking on the column header.
+The directory can be filtered by typing a name in the filter field. 
+
+Each column can be sorted by clicking on the column header.
 
 <img src="assets/employee-directory.png" width="600" height="350">
+
 
 ## User Story
 
